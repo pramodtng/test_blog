@@ -27,11 +27,11 @@ const Header = () => {
           <div className='flex items-center md:float-left hover:text-blue-400'>
             {/* <p className='text-[22px] text-center'>BlogSpot</p> */}
             <Image
-              src='/logo.png'
+              src='/logo.gif'
               alt='description'
-              height={50}
-              width={80}
-              className='cursor-pointer'
+              height={92}
+              width={90}
+              className='cursor-pointer rounded-md'
             />
             <Link href="/">
               <span className='cursor-pointer font-bold text-7xl lg:text-4xl lg:ml-2 lg:tracking-[2px]'>
